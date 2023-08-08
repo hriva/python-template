@@ -13,10 +13,11 @@ Using it requires [boilr](https://github.com/tmrts/boilr/).
 ## usage
 Register the template as `python`:
 
-    boilr template download aluriak/boilr-python python
+    boilr template download hriva/python-template
+
+Credit to: [Aluriak](https://github.com/Aluriak/boilr-python)
 
 Use it (dot is mandatory):
 
     boilr template use python .
-    
-Credit to: [Aluriak](https://github.com/Aluriak/boilr-python)
+
